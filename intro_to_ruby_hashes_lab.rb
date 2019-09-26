@@ -18,7 +18,7 @@ end
 
 def id_generator
  id_generator = { 
-   :id => rand
+   :id => 1
  }
 end
 
