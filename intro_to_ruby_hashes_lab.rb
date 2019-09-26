@@ -34,7 +34,6 @@ end
 
 def update_counting_hash(hash, key)
   counter = 0
-  hash - Hash.new
   if hash[key] = counter
     counter += 1
   end
