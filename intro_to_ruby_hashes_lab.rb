@@ -37,5 +37,6 @@ def update_counting_hash(hash, key)
 hash.each do |key, value|
     if hash[value] = counter
     counter += 1
-end
+    end
+  end
 end
