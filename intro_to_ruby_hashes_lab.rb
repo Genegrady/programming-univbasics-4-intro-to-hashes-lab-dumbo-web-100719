@@ -33,10 +33,5 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-  counter = 0
-hash.each do |key, value|
-    if hash[value] = counter
-    counter += 1
-    end
-  end
+  
 end
