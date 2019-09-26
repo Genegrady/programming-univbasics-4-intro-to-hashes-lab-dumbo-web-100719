@@ -18,7 +18,7 @@ end
 
 def id_generator
  id_generator = { 
-   :id => Math.rand
+   :id => .rand
  }
 end
 
