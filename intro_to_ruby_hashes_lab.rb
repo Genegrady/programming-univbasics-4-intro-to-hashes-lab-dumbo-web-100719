@@ -32,7 +32,6 @@ def read_from_hash(hash, key)
   read_from_hash = {
     hash == :hash
     key == "key"
-    :hash => "key"
   }
 end
 
